@@ -18,3 +18,5 @@ http://devzen.ru/
 Подкаст о Ruby: http://rubynoname.ru/
 
 Подкаст о Ruby и Web:http://www.rwpod.com/
+
+Frontend: http://frontendhappyhour.com/
